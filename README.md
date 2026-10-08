@@ -42,12 +42,10 @@
 
 ## 🎓 Enseño gratis
 
-<table>
-<tr>
-<td align="center" width="50%"><a href="https://cacg-code.github.io/web-desde-cero/"><img src="assets/readme/e-web.svg" alt="Web desde cero: HTML, CSS, JS, React, Node y SQL" width="100%"></a></td>
-<td align="center" width="50%"><a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/"><img src="assets/readme/e-bots.svg" alt="Chatbots de WhatsApp con simulador" width="100%"></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://cacg-code.github.io/web-desde-cero/"><img src="assets/readme/e-web.svg" alt="Web desde cero: HTML, CSS, JS, React, Node y SQL" width="49%"></a>
+<a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/"><img src="assets/readme/e-bots.svg" alt="Chatbots de WhatsApp con simulador" width="49%"></a>
+</p>
 
 <div align="center"><sub>Toca una tarjeta para empezar el curso · hechos por un estudiante, con apoyo de IA, como aporte a la comunidad.</sub></div>
 
