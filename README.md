@@ -31,19 +31,20 @@
 ## 📦 Proyectos
 
 <p align="center">
-<a href="https://cacg-code.github.io"><img src="assets/readme/p-portafolio.svg" alt="Portafolio con 10 demos en vivo" width="32%"></a>
-<a href="https://github.com/Cacg-code/web-desde-cero"><img src="assets/readme/p-web.svg" alt="web-desde-cero, curso gratis" width="32%"></a>
-<a href="https://github.com/Cacg-code/chatbots-whatsapp-desde-cero"><img src="assets/readme/p-bots.svg" alt="Chatbots de WhatsApp, curso gratis" width="32%"></a>
+<a href="https://cacg-code.github.io"><picture><source media="(max-width: 600px)" srcset="assets/readme/m-proyectos-m.svg"><img src="assets/readme/m-proyectos-d.svg" alt="Proyectos: portafolio con 10 demos, curso web-desde-cero y curso de chatbots de WhatsApp" width="100%"></picture></a>
 </p>
+
+<p align="center"><sub><a href="https://cacg-code.github.io">Portafolio</a> · <a href="https://github.com/Cacg-code/web-desde-cero">web-desde-cero</a> · <a href="https://github.com/Cacg-code/chatbots-whatsapp-desde-cero">Chatbots de WhatsApp</a></sub></p>
 
 <div align="center"><sub>Toca una tarjeta para abrir el repositorio o el sitio.</sub></div>
 
 ## 🎓 Enseño gratis
 
 <p align="center">
-<a href="https://cacg-code.github.io/web-desde-cero/"><img src="assets/readme/e-web.svg" alt="Web desde cero: HTML, CSS, JS, React, Node y SQL" width="49%"></a>
-<a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/"><img src="assets/readme/e-bots.svg" alt="Chatbots de WhatsApp con simulador" width="49%"></a>
+<a href="https://cacg-code.github.io/web-desde-cero/"><picture><source media="(max-width: 600px)" srcset="assets/readme/m-ensenanza-m.svg"><img src="assets/readme/m-ensenanza-d.svg" alt="Cursos gratis: Web desde cero y Chatbots de WhatsApp con simulador" width="100%"></picture></a>
 </p>
+
+<p align="center"><sub><a href="https://cacg-code.github.io/web-desde-cero/">Web desde cero</a> · <a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/">Chatbots de WhatsApp</a></sub></p>
 
 <div align="center"><sub>Toca una tarjeta para empezar el curso · hechos por un estudiante, con apoyo de IA, como aporte a la comunidad.</sub></div>
 
