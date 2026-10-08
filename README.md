@@ -30,13 +30,11 @@
 
 ## 📦 Proyectos
 
-<table>
-<tr>
-<td align="center" width="33%"><a href="https://cacg-code.github.io"><img src="assets/readme/p-portafolio.svg" alt="Portafolio con 10 demos en vivo" width="100%"></a></td>
-<td align="center" width="33%"><a href="https://github.com/Cacg-code/web-desde-cero"><img src="assets/readme/p-web.svg" alt="web-desde-cero, curso gratis" width="100%"></a></td>
-<td align="center" width="33%"><a href="https://github.com/Cacg-code/chatbots-whatsapp-desde-cero"><img src="assets/readme/p-bots.svg" alt="Chatbots de WhatsApp, curso gratis" width="100%"></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://cacg-code.github.io"><img src="assets/readme/p-portafolio.svg" alt="Portafolio con 10 demos en vivo" width="32%"></a>
+<a href="https://github.com/Cacg-code/web-desde-cero"><img src="assets/readme/p-web.svg" alt="web-desde-cero, curso gratis" width="32%"></a>
+<a href="https://github.com/Cacg-code/chatbots-whatsapp-desde-cero"><img src="assets/readme/p-bots.svg" alt="Chatbots de WhatsApp, curso gratis" width="32%"></a>
+</p>
 
 <div align="center"><sub>Toca una tarjeta para abrir el repositorio o el sitio.</sub></div>
 
