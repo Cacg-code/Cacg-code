@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Qué hago: páginas y landings, tiendas con carrito, chatbots de WhatsApp y paneles de gestión">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#312e81"/><stop offset="1" stop-color="#14102e"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1d5e"/><stop offset="1" stop-color="#14102e"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b5f6b"/><stop offset="1" stop-color="#0a1620"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c2d52"/><stop offset="1" stop-color="#14102e"/></linearGradient>
+    <clipPath id="w"><rect x="0" y="0" width="0" height="6"><animate attributeName="width" values="0;96;96;0" keyTimes="0;.4;.9;1" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <style>
+    .t{font-family:Segoe UI,Helvetica,Arial,sans-serif}
+    .card{animation:fl 6s ease-in-out infinite}.c2{animation-delay:.5s}.c3{animation-delay:1s}.c4{animation-delay:1.5s}
+    @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .bar{transform-box:fill-box;transform-origin:bottom;animation:gr 4s ease-in-out infinite}
+    .b2{animation-delay:.3s}.b3{animation-delay:.6s}.b4{animation-delay:.9s}
+    @keyframes gr{0%{transform:scaleY(.15)}50%,80%{transform:scaleY(1)}100%{transform:scaleY(.15)}}
+    .cart{animation:bo 2s ease-in-out infinite}@keyframes bo{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+    .item{animation:dr 3s ease-in infinite}@keyframes dr{0%{transform:translateY(-22px);opacity:0}30%{opacity:1}70%,100%{transform:translateY(6px);opacity:0}}
+    .ty{animation:bl 1s infinite}.ty2{animation-delay:.2s}.ty3{animation-delay:.4s}@keyframes bl{0%,100%{opacity:.2}50%{opacity:1}}
+    .m1{animation:pp 6s infinite;opacity:0}.m2{animation:pp 6s infinite;animation-delay:1.4s;opacity:0}
+    @keyframes pp{0%{opacity:0;transform:translateY(8px)}8%,80%{opacity:1;transform:translateY(0)}90%,100%{opacity:0}}
+    .ln{animation:ln 5s ease-in-out infinite}.l2{animation-delay:.4s}.l3{animation-delay:.8s}
+    @keyframes ln{0%,100%{transform:scaleX(.3)}50%{transform:scaleX(1)}}
+    .ln{transform-box:fill-box;transform-origin:left}
+  </style>
+  <g class="t">
+    <!-- 1 Web -->
+    <g class="card"><rect x="0" y="10" width="232" height="330" rx="22" fill="url(#g1)" stroke="#a78bfa" stroke-opacity=".6"/>
+      <g transform="translate(36 40)"><rect width="160" height="100" rx="10" fill="#0a0a14" stroke="#a78bfa"/><path d="M0 10a10 10 0 0 1 10-10h140a10 10 0 0 1 10 10v14H0z" fill="#1c1738"/>
+        <circle cx="14" cy="12" r="3.5" fill="#fb7185"/><circle cx="26" cy="12" r="3.5" fill="#fbbf24"/><circle cx="38" cy="12" r="3.5" fill="#4ade80"/>
+        <rect class="ln" x="16" y="40" width="90" height="8" rx="4" fill="#c4b5fd"/><rect class="ln l2" x="16" y="56" width="128" height="6" rx="3" fill="#6d5fb5"/><rect class="ln l3" x="16" y="70" width="70" height="6" rx="3" fill="#6d5fb5"/>
+        <rect x="104" y="76" width="40" height="14" rx="7" fill="#8b5cf6"/></g>
+      <text x="116" y="196" text-anchor="middle" font-size="22" font-weight="800" fill="#fff">Páginas web</text>
+      <text x="116" y="226" text-anchor="middle" font-size="14.5" fill="#c4b5fd">Landings rápidas y claras,</text><text x="116" y="246" text-anchor="middle" font-size="14.5" fill="#c4b5fd">pensadas primero</text><text x="116" y="266" text-anchor="middle" font-size="14.5" fill="#c4b5fd">para el celular</text>
+      <rect x="62" y="294" width="108" height="26" rx="13" fill="#8b5cf6" fill-opacity=".25" stroke="#a78bfa"/><text x="116" y="312" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ddd6fe">desde S/ 450</text></g>
+    <!-- 2 Tienda -->
+    <g transform="translate(256 0)"><g class="card c2"><rect x="0" y="10" width="232" height="330" rx="22" fill="url(#g2)" stroke="#f0abfc" stroke-opacity=".6"/>
+      <g transform="translate(70 40)"><circle class="item" cx="48" cy="6" r="9" fill="#fbbf24"/>
+        <g class="cart"><path d="M0 18h20l14 56h66l12-40H28" fill="none" stroke="#f0abfc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="46" cy="90" r="8" fill="#f0abfc"/><circle cx="96" cy="90" r="8" fill="#f0abfc"/></g></g>
+      <text x="116" y="196" text-anchor="middle" font-size="22" font-weight="800" fill="#fff">Tiendas online</text>
+      <text x="116" y="226" text-anchor="middle" font-size="14.5" fill="#f5d0fe">Catálogo con carrito y</text><text x="116" y="246" text-anchor="middle" font-size="14.5" fill="#f5d0fe">pedido directo a tu</text><text x="116" y="266" text-anchor="middle" font-size="14.5" fill="#f5d0fe">WhatsApp, sin comisiones</text>
+      <rect x="62" y="294" width="108" height="26" rx="13" fill="#d946ef" fill-opacity=".25" stroke="#f0abfc"/><text x="116" y="312" text-anchor="middle" font-size="12.5" font-weight="700" fill="#fae8ff">0 % comisión</text></g></g>
+    <!-- 3 Bots -->
+    <g transform="translate(512 0)"><g class="card c3"><rect x="0" y="10" width="232" height="330" rx="22" fill="url(#g3)" stroke="#5eead4" stroke-opacity=".6"/>
+      <g transform="translate(36 40)"><rect class="m1" x="70" y="0" width="90" height="28" rx="12" fill="#134e4a"/><text class="m1" x="84" y="19" font-size="13" fill="#fff">¿Horario?</text>
+        <rect class="m2" x="0" y="38" width="130" height="28" rx="12" fill="#1f2937"/><text class="m2" x="14" y="57" font-size="13" fill="#d1d5db">9 a 8 · todos los días</text>
+        <g><rect x="0" y="76" width="60" height="26" rx="12" fill="#1f2937"/><circle class="ty" cx="18" cy="89" r="4" fill="#5eead4"/><circle class="ty ty2" cx="30" cy="89" r="4" fill="#5eead4"/><circle class="ty ty3" cx="42" cy="89" r="4" fill="#5eead4"/></g></g>
+      <text x="116" y="196" text-anchor="middle" font-size="22" font-weight="800" fill="#fff">Chatbots</text>
+      <text x="116" y="226" text-anchor="middle" font-size="14.5" fill="#99f6e4">Atienden y toman pedidos</text><text x="116" y="246" text-anchor="middle" font-size="14.5" fill="#99f6e4">por WhatsApp a cualquier</text><text x="116" y="266" text-anchor="middle" font-size="14.5" fill="#99f6e4">hora, incluso de noche</text>
+      <rect x="62" y="294" width="108" height="26" rx="13" fill="#14b8a6" fill-opacity=".25" stroke="#5eead4"/><text x="116" y="312" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ccfbf1">atención 24/7</text></g></g>
+    <!-- 4 Paneles -->
+    <g transform="translate(768 0)"><g class="card c4"><rect x="0" y="10" width="232" height="330" rx="22" fill="url(#g4)" stroke="#f472b6" stroke-opacity=".6"/>
+      <g transform="translate(46 40)"><rect x="0" y="0" width="140" height="100" rx="10" fill="#0a0a14" stroke="#f472b6" stroke-opacity=".6"/>
+        <rect class="bar" x="16" y="30" width="18" height="60" rx="4" fill="#f472b6"/><rect class="bar b2" x="44" y="46" width="18" height="44" rx="4" fill="#c084fc"/><rect class="bar b3" x="72" y="20" width="18" height="70" rx="4" fill="#f472b6"/><rect class="bar b4" x="100" y="38" width="18" height="52" rx="4" fill="#c084fc"/></g>
+      <text x="116" y="196" text-anchor="middle" font-size="22" font-weight="800" fill="#fff">Paneles y CRM</text>
+      <text x="116" y="226" text-anchor="middle" font-size="14.5" fill="#fbcfe8">Citas, clientes y ventas</text><text x="116" y="246" text-anchor="middle" font-size="14.5" fill="#fbcfe8">en un solo lugar, simple</text><text x="116" y="266" text-anchor="middle" font-size="14.5" fill="#fbcfe8">de usar</text>
+      <rect x="62" y="294" width="108" height="26" rx="13" fill="#ec4899" fill-opacity=".25" stroke="#f472b6"/><text x="116" y="312" text-anchor="middle" font-size="12.5" font-weight="700" fill="#fce7f3">a tu medida</text></g></g>
+  </g>
+</svg>

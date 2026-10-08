@@ -20,7 +20,13 @@
 
 ## 🚀 Qué hago
 
-Páginas y landings rápidas, tiendas con carrito y pedido por WhatsApp, chatbots (Cloud API + Cloudflare Workers) y paneles sencillos para pequeños negocios. **Todo pensado primero para el celular.**
+<div align="center">
+
+<img src="assets/readme/hago.svg" alt="Páginas web, tiendas online, chatbots de WhatsApp y paneles con CRM" width="100%">
+
+<sub>Todo pensado <b>primero para el celular</b>. <a href="https://cacg-code.github.io/#precios">Ver precios</a> · <a href="https://wa.me/51991053535?text=Hola%20Carlo%2C%20quiero%20una%20cotizaci%C3%B3n.">pedir cotización</a></sub>
+
+</div>
 
 ## 📦 Proyectos
 
@@ -34,7 +40,13 @@ Páginas y landings rápidas, tiendas con carrito y pedido por WhatsApp, chatbot
 
 ## 🎓 Enseño gratis
 
-Mis dos cursos son gratuitos y en español: [aprende web desde cero](https://cacg-code.github.io/web-desde-cero/) y, después, [crea tu primer bot de WhatsApp](https://cacg-code.github.io/chatbots-whatsapp-desde-cero/).
+<div align="center">
+
+<img src="assets/readme/ensenar.svg" alt="Curso de desarrollo web desde cero y curso de chatbots de WhatsApp, ambos gratis" width="100%">
+
+<a href="https://cacg-code.github.io/web-desde-cero/"><b>▶ Empezar web desde cero</b></a> &nbsp;·&nbsp; <a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/"><b>▶ Crear mi primer bot</b></a>
+
+</div>
 
 <div align="center">
 <sub>📍 Lima, Perú · Desarrollo con apoyo de IA, bajo mi dirección y revisión</sub>
