@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="295" viewBox="340 0 320 295" role="img" aria-label="web-desde-cero: curso gratis">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#312e81"/><stop offset="1" stop-color="#1a1240"/></linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1d5e"/><stop offset="1" stop-color="#1a1240"/></linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b5f6b"/><stop offset="1" stop-color="#08191c"/></linearGradient>
+  </defs>
+  <style>
+    .t{font-family:Segoe UI,Helvetica,Arial,sans-serif}
+    .k{animation:k 6s ease-in-out infinite}.k2{animation-delay:.6s}.k3{animation-delay:1.2s}
+    @keyframes k{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .sh{animation:s 3.6s ease-in-out infinite}@keyframes s{0%{transform:translateX(-300px)}60%,100%{transform:translateX(420px)}}
+  </style>
+  <g class="t">
+    <g class="k"><rect x="0" y="10" width="320" height="270" rx="22" fill="url(#a)" stroke="#a78bfa" stroke-opacity=".6"/>
+      <text x="28" y="78" font-size="44">🌐</text><text x="28" y="130" font-size="26" font-weight="800" fill="#fff">Portafolio</text>
+      <text x="28" y="164" font-size="16" fill="#c4b5fd">10 demos en vivo para</text><text x="28" y="186" font-size="16" fill="#c4b5fd">distintos tipos de negocio</text>
+      <rect x="28" y="214" width="120" height="34" rx="17" fill="#8b5cf6"/><text x="88" y="236" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">Ver demos →</text></g>
+    <g class="k k2"><rect x="340" y="10" width="320" height="270" rx="22" fill="url(#b)" stroke="#f0abfc" stroke-opacity=".6"/>
+      <text x="368" y="78" font-size="44">📚</text><text x="368" y="130" font-size="26" font-weight="800" fill="#fff">web-desde-cero</text>
+      <text x="368" y="164" font-size="16" fill="#f5d0fe">Curso gratis: HTML, CSS, JS,</text><text x="368" y="186" font-size="16" fill="#f5d0fe">React, Node y bases de datos</text>
+      <rect x="368" y="214" width="120" height="34" rx="17" fill="#d946ef"/><text x="428" y="236" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">Aprender →</text></g>
+    <g class="k k3"><rect x="680" y="10" width="320" height="270" rx="22" fill="url(#c)" stroke="#5eead4" stroke-opacity=".6"/>
+      <text x="708" y="78" font-size="44">🤖</text><text x="708" y="130" font-size="26" font-weight="800" fill="#fff">Chatbots WhatsApp</text>
+      <text x="708" y="164" font-size="16" fill="#99f6e4">28 lecciones + simulador</text><text x="708" y="186" font-size="16" fill="#99f6e4">para crear y vender tu bot</text>
+      <rect x="708" y="214" width="120" height="34" rx="17" fill="#14b8a6"/><text x="768" y="236" text-anchor="middle" font-size="14" font-weight="700" fill="#042f2e">Chatear →</text></g>
+  </g>
+</svg>

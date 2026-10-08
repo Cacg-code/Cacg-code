@@ -30,23 +30,26 @@
 
 ## 📦 Proyectos
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://cacg-code.github.io"><img src="assets/readme/p-portafolio.svg" alt="Portafolio con 10 demos en vivo" width="100%"></a></td>
+<td align="center" width="33%"><a href="https://github.com/Cacg-code/web-desde-cero"><img src="assets/readme/p-web.svg" alt="web-desde-cero, curso gratis" width="100%"></a></td>
+<td align="center" width="33%"><a href="https://github.com/Cacg-code/chatbots-whatsapp-desde-cero"><img src="assets/readme/p-bots.svg" alt="Chatbots de WhatsApp, curso gratis" width="100%"></a></td>
+</tr>
+</table>
 
-<img src="assets/readme/proyectos.svg" alt="Portafolio, web-desde-cero y chatbots de WhatsApp" width="100%">
-
-**[🌐 Portafolio](https://github.com/Cacg-code/Cacg-code.github.io)** &nbsp;·&nbsp; **[📚 web-desde-cero](https://github.com/Cacg-code/web-desde-cero)** &nbsp;·&nbsp; **[🤖 chatbots-whatsapp-desde-cero](https://github.com/Cacg-code/chatbots-whatsapp-desde-cero)**
-
-</div>
+<div align="center"><sub>Toca una tarjeta para abrir el repositorio o el sitio.</sub></div>
 
 ## 🎓 Enseño gratis
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%"><a href="https://cacg-code.github.io/web-desde-cero/"><img src="assets/readme/e-web.svg" alt="Web desde cero: HTML, CSS, JS, React, Node y SQL" width="100%"></a></td>
+<td align="center" width="50%"><a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/"><img src="assets/readme/e-bots.svg" alt="Chatbots de WhatsApp con simulador" width="100%"></a></td>
+</tr>
+</table>
 
-<img src="assets/readme/ensenar.svg" alt="Curso de desarrollo web desde cero y curso de chatbots de WhatsApp, ambos gratis" width="100%">
-
-<a href="https://cacg-code.github.io/web-desde-cero/"><b>▶ Empezar web desde cero</b></a> &nbsp;·&nbsp; <a href="https://cacg-code.github.io/chatbots-whatsapp-desde-cero/"><b>▶ Crear mi primer bot</b></a>
-
-</div>
+<div align="center"><sub>Toca una tarjeta para empezar el curso · hechos por un estudiante, con apoyo de IA, como aporte a la comunidad.</sub></div>
 
 <div align="center">
 <sub>📍 Lima, Perú · Desarrollo con apoyo de IA, bajo mi dirección y revisión</sub>
