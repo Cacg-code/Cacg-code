@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="72" viewBox="0 0 440 72" role="img" aria-label="Escríbeme por WhatsApp">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <style>.t{font-family:Segoe UI,Helvetica,Arial,sans-serif}.h{animation:h 2.8s ease-in-out infinite}@keyframes h{0%,100%{opacity:0}50%{opacity:.25}}.p{animation:p 2s ease-out infinite;transform-origin:center;transform-box:fill-box}@keyframes p{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.4);opacity:0}}</style>
+  <rect width="440" height="72" rx="36" fill="url(#g)"/><rect width="440" height="72" rx="36" fill="#fff" class="h"/>
+  <circle cx="44" cy="36" r="8" fill="#4ade80"/><circle class="p" cx="44" cy="36" r="8" fill="#4ade80"/>
+  <text class="t" x="68" y="45" font-size="22" font-weight="800" fill="#fff">Cuéntame tu idea por WhatsApp</text>
+</svg>

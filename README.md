@@ -1,25 +1,41 @@
-# Hola, soy Carlo 👋
+<div align="center">
 
-**Desarrollador web freelance en Lima, Perú.** Hago páginas, tiendas y chatbots de WhatsApp para negocios locales, y enseño a programar gratis en español.
+<a href="https://cacg-code.github.io"><img src="assets/readme/banner.svg" alt="Carlo, desarrollador web freelance en Lima, Perú" width="100%"></a>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-cacg--code.github.io-0b0b0f?style=for-the-badge)](https://cacg-code.github.io)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51991053535)
+<br>
 
-## Qué hago
-- 🌐 Páginas web y landings rápidas, pensadas primero para el celular
-- 🛒 Tiendas y catálogos con carrito y pedido por WhatsApp
-- 🤖 Chatbots de WhatsApp (Cloud API + Cloudflare Workers)
-- 📊 Paneles y CRM sencillos para pequeños negocios
+<a href="https://wa.me/51991053535?text=Hola%20Carlo%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20una%20p%C3%A1gina%20web."><img src="assets/readme/boton-whatsapp.svg" alt="Cuéntame tu idea por WhatsApp" width="440"></a>
 
-## Proyectos
-| Proyecto | Qué es |
-|---|---|
-| [Portafolio](https://github.com/Cacg-code/Cacg-code.github.io) | 10 demos en vivo para distintos tipos de negocio |
-| [web-desde-cero](https://github.com/Cacg-code/web-desde-cero) | Curso gratis: HTML, CSS, JS, React, Node y bases de datos |
-| [chatbots-whatsapp-desde-cero](https://github.com/Cacg-code/chatbots-whatsapp-desde-cero) | Curso gratis: 28 lecciones + simulador de chatbot |
+<br>
 
-## Stack
-`HTML` `CSS` `JavaScript` `React` `Vite` `Node.js` `MySQL` `Cloudflare Workers` `Apps Script`
+<img src="assets/readme/stack.svg" alt="HTML, CSS, JavaScript, React, Vite, Node.js, MySQL, Cloudflare Workers, Apps Script" width="100%">
 
-## Contacto
-📧 chiuyareguillendev@gmail.com · 📍 Lima, Perú
+<br>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-cacg--code.github.io-8b5cf6?style=for-the-badge)](https://cacg-code.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo%20Chiuyare-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-andre-chiuyare-guillen-916944224)
+[![Correo](https://img.shields.io/badge/Correo-escr%C3%ADbeme-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiuyareguillendev@gmail.com)
+
+</div>
+
+## 🚀 Qué hago
+
+Páginas y landings rápidas, tiendas con carrito y pedido por WhatsApp, chatbots (Cloud API + Cloudflare Workers) y paneles sencillos para pequeños negocios. **Todo pensado primero para el celular.**
+
+## 📦 Proyectos
+
+<div align="center">
+
+<img src="assets/readme/proyectos.svg" alt="Portafolio, web-desde-cero y chatbots de WhatsApp" width="100%">
+
+**[🌐 Portafolio](https://github.com/Cacg-code/Cacg-code.github.io)** &nbsp;·&nbsp; **[📚 web-desde-cero](https://github.com/Cacg-code/web-desde-cero)** &nbsp;·&nbsp; **[🤖 chatbots-whatsapp-desde-cero](https://github.com/Cacg-code/chatbots-whatsapp-desde-cero)**
+
+</div>
+
+## 🎓 Enseño gratis
+
+Mis dos cursos son gratuitos y en español: [aprende web desde cero](https://cacg-code.github.io/web-desde-cero/) y, después, [crea tu primer bot de WhatsApp](https://cacg-code.github.io/chatbots-whatsapp-desde-cero/).
+
+<div align="center">
+<sub>📍 Lima, Perú · Desarrollo con apoyo de IA, bajo mi dirección y revisión</sub>
+</div>

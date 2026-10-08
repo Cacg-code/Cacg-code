@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-label="Carlo Dev: desarrollador web freelance en Lima, escribe en una terminal su perfil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b14"/><stop offset=".6" stop-color="#1a1240"/><stop offset="1" stop-color="#2b1250"/></linearGradient>
+    <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#c4b5fd"/><stop offset=".55" stop-color="#f0abfc"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <clipPath id="l1"><rect x="24" y="70" height="34" width="0"><animate attributeName="width" values="0;340;340;0" keyTimes="0;.12;.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2"><rect x="24" y="110" height="34" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;.14;.3;.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3"><rect x="24" y="150" height="34" width="0"><animate attributeName="width" values="0;0;470;470;0" keyTimes="0;.32;.5;.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4"><rect x="24" y="190" height="34" width="0"><animate attributeName="width" values="0;0;440;440;0" keyTimes="0;.52;.7;.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern>
+  </defs>
+  <style>
+    .t{font-family:Segoe UI,Helvetica,Arial,sans-serif}
+    .m{font-family:Consolas,Menlo,monospace;font-size:20px}
+    .fl{animation:f 7s ease-in-out infinite}.fl2{animation:f 9s ease-in-out infinite reverse}
+    @keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-16px)}}
+    .cur{animation:c 1s steps(2) infinite}@keyframes c{50%{opacity:0}}
+    .chip{animation:ch 5s ease-in-out infinite}.chip:nth-of-type(2){animation-delay:.8s}.chip:nth-of-type(3){animation-delay:1.6s}
+    @keyframes ch{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  </style>
+  <rect width="1000" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="1000" height="420" rx="26" fill="url(#grid)"/>
+  <g opacity=".22"><circle class="fl" cx="900" cy="70" r="95" fill="#f472b6"/><circle class="fl2" cx="70" cy="380" r="110" fill="#8b5cf6"/></g>
+
+  <!-- Terminal -->
+  <g transform="translate(48 56)">
+    <rect width="560" height="308" rx="16" fill="#0a0a12" stroke="#a78bfa" stroke-opacity=".45" stroke-width="1.5"/>
+    <path d="M0 16a16 16 0 0 1 16-16h528a16 16 0 0 1 16 16v26H0z" fill="#1c1738"/>
+    <circle cx="26" cy="21" r="6" fill="#fb7185"/><circle cx="48" cy="21" r="6" fill="#fbbf24"/><circle cx="70" cy="21" r="6" fill="#4ade80"/>
+    <text class="m" x="280" y="27" font-size="13" fill="#8b86b8" text-anchor="middle" style="font-size:13px">carlo@lima ~ perfil.js</text>
+    <g class="m">
+      <g clip-path="url(#l1)" transform="translate(0 0)"><text x="24" y="92"><tspan fill="#f472b6">const</tspan><tspan fill="#e9e5ff"> carlo = {</tspan></text></g>
+      <g clip-path="url(#l2)"><text x="24" y="132"><tspan fill="#a5b4fc">  rol:</tspan><tspan fill="#86efac"> "Desarrollador web"</tspan><tspan fill="#e9e5ff">,</tspan></text></g>
+      <g clip-path="url(#l3)"><text x="24" y="172"><tspan fill="#a5b4fc">  hago:</tspan><tspan fill="#86efac"> ["webs","tiendas","bots"]</tspan><tspan fill="#e9e5ff">,</tspan></text></g>
+      <g clip-path="url(#l4)"><text x="24" y="212"><tspan fill="#a5b4fc">  enseño:</tspan><tspan fill="#fcd34d"> gratis</tspan><tspan fill="#e9e5ff">,</tspan><tspan fill="#8b86b8"> // en español</tspan></text></g>
+      <text x="24" y="252" fill="#e9e5ff">};<tspan class="cur" fill="#f0abfc"> ▍</tspan></text>
+    </g>
+  </g>
+
+  <!-- Nombre -->
+  <g class="t">
+    <text x="650" y="150" font-size="26" font-weight="600" fill="#c4b5fd">Hola, soy</text>
+    <text x="648" y="222" font-size="76" font-weight="800" fill="url(#nm)">Carlo</text>
+    <text x="650" y="262" font-size="20" fill="#e9e5ff">Freelance · Lima, Perú</text>
+    <g font-size="14" font-weight="700" fill="#fff">
+      <g class="chip"><rect x="650" y="290" width="86" height="30" rx="15" fill="#312e81" stroke="#a78bfa"/><text x="693" y="310" text-anchor="middle">Webs</text></g>
+      <g class="chip"><rect x="746" y="290" width="86" height="30" rx="15" fill="#4a1d5e" stroke="#f0abfc"/><text x="789" y="310" text-anchor="middle">Bots</text></g>
+      <g class="chip"><rect x="842" y="290" width="110" height="30" rx="15" fill="#581c3f" stroke="#f472b6"/><text x="897" y="310" text-anchor="middle">Cursos</text></g>
+    </g>
+  </g>
+</svg>
